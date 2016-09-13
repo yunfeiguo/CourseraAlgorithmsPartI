@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="D:/document/self_learning/algorithm_4th_ed/source/src/algs4.jar"/>
+	<classpathentry kind="lib" path="/Users/guoy28/Google Drive/self_learning/algorithm_4th_ed/source/bin/algs4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
